@@ -1,0 +1,12 @@
+Apartment{volume=400, apartmentNum=1, vacant=false, price=2000, renter=null, parking= {volume=15, things=[], stuffMax=150, accessibility=4, vehicle=null}}
+Apartment{volume=500, apartmentNum=2, vacant=false, price=2000, renter=null, parking= {volume=20, things=[], stuffMax=180, accessibility=3, vehicle=null}}
+Apartment{volume=450, apartmentNum=3, vacant=false, price=2200, renter=null, parking= {volume=17, things=[], stuffMax=160, accessibility=2, vehicle=null}}
+Apartment{volume=480, apartmentNum=4, vacant=false, price=2300, renter=null, parking= {volume=18, things=[], stuffMax=170, accessibility=3, vehicle=null}}
+Apartment{volume=520, apartmentNum=5, vacant=false, price=2600, renter=null, parking= {volume=19, things=[], stuffMax=180, accessibility=4, vehicle=null}}
+Apartment{volume=580, apartmentNum=6, vacant=false, price=2800, renter=null, parking= {volume=21, things=[], stuffMax=190, accessibility=3, vehicle=null}}
+Apartment{volume=550, apartmentNum=7, vacant=false, price=2700, renter=null, parking= {volume=22, things=[], stuffMax=200, accessibility=2, vehicle=null}}
+Apartment{volume=600, apartmentNum=8, vacant=false, price=3000, renter=null, parking= {volume=24, things=[], stuffMax=210, accessibility=4, vehicle=null}}
+Apartment{volume=480, apartmentNum=9, vacant=false, price=2300, renter=null, parking= {volume=20, things=[], stuffMax=180, accessibility=2, vehicle=null}}
+Apartment{volume=650, apartmentNum=10, vacant=false, price=3200, renter=null, parking= {volume=23, things=[], stuffMax=220, accessibility=5, vehicle=null}}
+Apartment{volume=8, apartmentNum=11, vacant=false, price=400, renter=null, parking= {volume=15, things=[], stuffMax=6, accessibility=4, vehicle=null}}
+Apartment{volume=400, apartmentNum=1, vacant=true, price=20000, renter=null, parking= {volume=15, things=[], stuffMax=150, accessibility=4, vehicle=null}}
